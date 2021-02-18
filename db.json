@@ -1,12 +1,12 @@
 {
     "matches": [
         {
-            "matchId": "1",
+            "id": "1",
             "playerName": "Anfernee",
             "wpm": "999"
         },
         {
-            "matchId": "2",
+            "id": "2",
             "playerName": "Rapio",
             "wpm": "998"
         }
