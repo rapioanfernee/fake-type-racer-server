@@ -1,19 +1,14 @@
 {
-    "players": [
+    "matches": [
         {
-            "id": "1",
-            "name": "Anfernee",
-            "plays": [
-                {
-                    "playId": "1",
-                    "wpm": "999"
-                }
-            ]
+            "matchId": "1",
+            "playerName": "Anfernee",
+            "wpm": "999"
         },
         {
-            "id": "2",
-            "name": "Guest",
-            "plays": []
+            "matchId": "2",
+            "playerName": "Rapio",
+            "wpm": "998"
         }
     ]
 }
