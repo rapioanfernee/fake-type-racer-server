@@ -1,16 +1,19 @@
 {
     "players": [
         {
-            "id": 1,
-            "name": "Anfernee"
+            "id": "1",
+            "name": "Anfernee",
+            "plays": [
+                {
+                    "playId": "1",
+                    "wpm": "999"
+                }
+            ]
         },
         {
-            "id": 2,
-            "name": "Santos"
-        },
-        {
-            "id": 3,
-            "name": "Rapio"
+            "id": "2",
+            "name": "Guest",
+            "plays": []
         }
     ]
 }
